@@ -55,7 +55,7 @@ function sumit(){
 //     document.body.appendChild(div)
 // }, 3000);
 
-let h=0o1
+let h=0
 let m=29
 let s=10
 
